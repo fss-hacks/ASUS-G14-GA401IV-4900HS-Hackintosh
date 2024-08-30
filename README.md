@@ -1,7 +1,7 @@
 # ASUS-G14-GA401IV-4900HS-Hackintosh
 EFI and settings to build a 2020 ASUS GA401IV Ryzen 9 4900HS Hackintosh
 
-Hackintosh running on Mac OS Ventura.
+Hackintosh running on Mac OS Ventura.\
 What is working:
 -Everything eccept for iMessage and FaceTime
 -Trackpad occasionally freezes for about 15 seconds but will begin to work again
