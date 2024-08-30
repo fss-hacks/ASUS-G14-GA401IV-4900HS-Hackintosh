@@ -2,11 +2,11 @@
 EFI and settings to build a 2020 ASUS GA401IV Ryzen 9 4900HS Hackintosh
 
 Hackintosh running on Mac OS Ventura.\
-What is working:
--Everything eccept for iMessage and FaceTime
--Trackpad occasionally freezes for about 15 seconds but will begin to work again
--USB-C ports that are attached to the dGPU aren't working correctly
--Still implementing more refined CPUTSCSync replacement for AMD
+What is working:\
+-Everything eccept for iMessage and FaceTime\
+-Trackpad occasionally freezes for about 15 seconds but will begin to work again\
+-USB-C ports that are attached to the dGPU aren't working correctly\
+-Still implementing more refined CPUTSCSync replacement for AMD\
 
 Instructions:
 Prepare BIOS:
