@@ -37,7 +37,7 @@ clear_crystal______ (Reddit)\
 Big 🖕 to:\
 Dortania for writing HORRIBLE, unreadable guides that miss important pieces of the process\
 People who constantly ask for EFIs without doing any work or development\
-All the posters on Reddit and AMD-OSX who claim that "you can't hackintosh this machine cuz GPU etc"\
+All the posters on Reddit and AMD-OSX who claim that "you can't hackintosh this machine cuz GPU etc"
 
 
 
