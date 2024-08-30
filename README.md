@@ -28,11 +28,11 @@ You can do this with an already existing Windows installation without losing dat
 If you need to update OpenCore, kexts, and ACPIs, use OCAT (https://github.com/ic005k/OCAuxiliaryTools) to help you.\
 
 Big thanks to:\
-Plut02 (https://github.com/PIut02/ROG-Zephyrus-G14-GA401-Hackintosh?tab=readme-ov-file)\
-b00t0x (https://github.com/b00t0x/ROG-Zephyrus-G14-GA402-Hackintosh)\
-DavidS95 (https://github.com/DavidS95/Smokeless_UMAF)\
-ChefKissInc (https://github.com/ChefKissInc/NootedRed)\
-clear_crystal______ (Reddit)\
+Plut02 (https://github.com/PIut02/ROG-Zephyrus-G14-GA401-Hackintosh?tab=readme-ov-file)
+b00t0x (https://github.com/b00t0x/ROG-Zephyrus-G14-GA402-Hackintosh)
+DavidS95 (https://github.com/DavidS95/Smokeless_UMAF)
+ChefKissInc (https://github.com/ChefKissInc/NootedRed)
+clear_crystal______ (Reddit)
 
 Big 🖕 to:\
 Dortania for writing HORRIBLE, unreadable guides that miss important pieces of the process\
