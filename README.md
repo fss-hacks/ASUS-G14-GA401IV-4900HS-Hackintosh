@@ -13,12 +13,12 @@ Instructions:\
 Prepare BIOS:\
 Currently working BIOS version is 220. To secure working, downgrade your BIOS to 220 and make sure Windows Update doesn't update.\
 -Turn off Secure Boot and Fast Boot\
-Use UMAF (https://github.com/DavidS95/Smokeless_UMAF/) to change the following settings:\
+-Use UMAF (https://github.com/DavidS95/Smokeless_UMAF/) to change the following settings:\
 -Device Manager > AMD CBS > NBIO Common Options > GFX Configuration and adjust the IGPU Configuration to UMA_SPECIFIED. Then, set the UMA Frame buffer Size to 2GB.\
-- Device Manager > PCI Subsystem Settings > Enable 4G Decoding\
-- Partition drive and make a partition for Mac OS, you can format it NTFS for now. Use software like Minitool Partition Wizard (https://www.partitionwizard.com/) to resize existing Windows partition without losing data.\
--Download EFI files. Add Mac OS Installer files. Add random SMBIOS serial/ID info. Make USB installer flash drive.\
--Boot into BIOS by pressing F2 repeatedly, then F8 to select the flash drive. Installer will boot in verbose mode (-v). Format your drive with Disk Utility then install Mac OS Ventura. The machine will restart several times, pay quick attention to this so you can select OpenCore when the restart happens.\
+- Device Manager > PCI Subsystem Settings > Enable 4G Decoding
+- Partition drive and make a partition for Mac OS, you can format it NTFS for now. Use software like Minitool Partition Wizard (https://www.partitionwizard.com/) to resize existing Windows partition without losing data.
+-Download EFI files. Add Mac OS Installer files. Add random SMBIOS serial/ID info. Make USB installer flash drive.
+-Boot into BIOS by pressing F2 repeatedly, then F8 to select the flash drive. Installer will boot in verbose mode (-v). Format your drive with Disk Utility then install Mac OS Ventura. The machine will restart several times, pay quick attention to this so you can select OpenCore when the restart happens.
 
 Finishing:
 Once your install is done and you have gone thru setup, you have the choice to either:\
